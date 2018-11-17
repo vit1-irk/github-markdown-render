@@ -22,3 +22,7 @@ python render_markdown.py <input> [<output>]
 ```bash
 python render_markdown.py README.md out.html
 ```
+
+### Python3
+
+render3.py is python3 version
